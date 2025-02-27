@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bishna shohani</h1>
-<h3 align="center">A passionate data science student from sri lanka Institue of informatiin technology</h3>
+<h3 align="center">A passionate data science student from sri lanka Institue of information technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohani11&label=Profile%20views&color=0e75b6&style=flat" alt="shohani11" /> </p>
 
